@@ -8,7 +8,7 @@ Obrigado por considerar contribuir com o Port Monitor! Este documento explica co
 
 ### Reportar um bug
 
-1. Verifique se o bug já foi reportado nas [Issues](https://github.com/SEU_USUARIO/port-monitor/issues)
+1. Verifique se o bug já foi reportado nas [Issues](https://github.com/Gabrielferreira1/Port_Monitor/issues)
 2. Se não encontrou, abra uma nova issue usando o template **Bug Report**
 3. Inclua: sistema operacional, versão do Python, passos para reproduzir e mensagem de erro
 
@@ -36,7 +36,7 @@ Obrigado por considerar contribuir com o Port Monitor! Este documento explica co
 ## Configuração do ambiente
 
 ```bash
-git clone https://github.com/SEU_USUARIO/port-monitor.git
+git clone https://github.com/Gabrielferreira1/Port_Monitor.git
 cd port-monitor
 pip install psutil
 python port_monitor.py
