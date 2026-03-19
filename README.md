@@ -58,7 +58,7 @@ Aí começa a busca: abre o terminal, digita `netstat -ano`, filtra manualmente,
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/port-monitor.git
+git clone https://github.com/Gabrielferreira1/Port_Monitor.git
 cd port-monitor
 
 # Instale as dependências
