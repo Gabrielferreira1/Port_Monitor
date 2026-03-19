@@ -1,13 +1,13 @@
 # ══════════════════════════════════════════════════════════════════════════════
 #  Port Monitor — Gerenciador de Portas e Processos
 #  Criado por Gabriel Vasconcellos
-#  GitHub : https://github.com/GabrielVasconcellos/port-monitor
+#  GitHub : https://github.com/Gabrielferreira1/Port_Monitor/
 #  Licença: MIT
 # ══════════════════════════════════════════════════════════════════════════════
 
 __author__  = "Gabriel Vasconcellos"
 __version__ = "1.0.0"
-__github__  = "https://github.com/GabrielVasconcellos/port-monitor"
+__github__  = "https://github.com/Gabrielferreira1/Port_Monitor/"
 __license__ = "MIT"
 
 import tkinter as tk
