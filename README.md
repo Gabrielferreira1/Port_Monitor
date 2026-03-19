@@ -7,8 +7,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-22c55e?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Plataforma-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com)
-[![Stars](https://img.shields.io/github/stars/SEU_USUARIO/port-monitor?style=flat-square&color=f59e0b)](https://github.com/SEU_USUARIO/port-monitor/stargazers)
-[![Issues](https://img.shields.io/github/issues/SEU_USUARIO/port-monitor?style=flat-square&color=ef4444)](https://github.com/SEU_USUARIO/port-monitor/issues)
+[![Stars](https://img.shields.io/github/stars/Gabrielferreira1/Port_Monitor?style=flat-square&color=f59e0b)](https://github.com/Gabrielferreira1/Port_Monitor/stargazers)
+[![Issues](https://img.shields.io/github/issues/Gabrielferreira1/Port_Monitor?style=flat-square&color=ef4444)](https://github.com/Gabrielferreira1/Port_Monitor/issues)
 
 <br/>
 
@@ -37,7 +37,7 @@ Aí começa a busca: abre o terminal, digita `netstat -ano`, filtra manualmente,
 - **Monitoramento em tempo real** de todas as portas TCP/UDP ativas
 - **Auto-refresh a cada 5 segundos** (toggle para ligar/desligar)
 - **Filtro instantâneo** por porta, processo, PID, caminho ou status
-- **Encerramento de processos** com um clique — suporta seleção múltipla
+- **Encerramento de processos** com um clique  suporta seleção múltipla
 - **Informações completas**: porta, protocolo, status, PID, nome e caminho do executável
 - **Ordenação** por qualquer coluna
 - **Zero dependências** na versão `.exe` — só baixar e executar
@@ -48,7 +48,7 @@ Aí começa a busca: abre o terminal, digita `netstat -ano`, filtra manualmente,
 
 ### Opção 1 — Executável (recomendado)
 
-1. Vá em [**Releases**](https://github.com/SEU_USUARIO/port-monitor/releases/latest)
+1. Vá em [**Releases**](https://github.com/Gabrielferreira1/Port_Monitor.git)
 2. Baixe o `PortMonitor.exe`
 3. Execute como **Administrador** para ver todos os processos
 
@@ -126,6 +126,6 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 <div align="center">
 
-Se este projeto te ajudou, considere deixar uma ⭐ — isso ajuda outras pessoas a encontrarem.
+Se este projeto te ajudou, considere deixar uma ⭐  isso ajuda outras pessoas a encontrarem.
 
 </div>
